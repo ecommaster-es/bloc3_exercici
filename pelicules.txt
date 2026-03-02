@@ -1,3 +1,9 @@
 Terminator
+<<<<<<< HEAD
 Los caballeros de la mesa cuadrada
 SEVEN
+=======
+El Santo Grial
+Los caballeros de la mesa cuadradada
+Amanece que no es poco
+>>>>>>> origin/main
